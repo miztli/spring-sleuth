@@ -1,0 +1,4 @@
+com/example/springsleuth/config/HttpClient.class
+com/example/springsleuth/controllers/UserController.class
+com/example/springsleuth/SpringSleuthApplication.class
+com/example/springsleuth/controllers/IntensiveProcessingService.class
